@@ -1,9 +1,6 @@
 #   _invisible speedo SPAM BOT
 
-<p align="center">
-  <img src="![photo_2022-03-23_08-09-09](https://user-images.githubusercontent.com/101985120/163595447-0262216a-87c2-4c97-a502-a7d463339486.jpg)
-https://telegra.ph/file/aec6a0cbeb11b6d97f48e.jpg">
-</p>
+![main](https://user-images.githubusercontent.com/101985120/163595623-4419b140-e610-4700-8609-dcd6399c2f07.jpg)
 
   
 
